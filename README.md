@@ -1,6 +1,6 @@
-# Bootstrap Carousel
+# v4 Bootstrap Carousel
 
-The purpose of this repo is to set up a Bootstrap v4.0.0-alpah.6 carousel
+Set up of Bootstrap v4.0.0-alpah.6 for carousel
 
 4.0.0-alpha.6/css/bootstrap.min.css
 
